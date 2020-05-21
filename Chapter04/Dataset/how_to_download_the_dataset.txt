@@ -1,0 +1,6 @@
+예제 프로젝트에 필요한 데이터셋을 내려받으려면 다음 과정을 거쳐야 한다.
+
+1.	https://www.microsoft.com/en-us/download/details.aspx?id=54765에 접속한다.
+2.	Download 버튼을 클릭한다.
+3.	파일을 내려받았다면 파일 압축을 해제한다.
+4.	압축 해제한 폴더 아래에 PetImages 폴더를 찾을 수 있다. 이 폴더를 프로젝트 예제 폴더 아래에 Dataset 폴더 안으로 복사한다. 다시 말해, 복사한 폴더의 경로는 Chapter04/Dataset/PetImages/가 된다.

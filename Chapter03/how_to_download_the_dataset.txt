@@ -1,0 +1,8 @@
+예제 프로젝트에 필요한 데이터셋을 내려받으려면 다음 과정을 거쳐야 한다.
+
+1.	https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data에 접속한다.
+2.	상단 탭 메뉴 중 Download All을 클릭한다.
+3.	캐글 계정으로 로그인하거나 가입하라는 화면이 나올 것이다. 캐글 계정이 없다면 하나 만들자.
+4.	로그인을 완료하면 파일을 자동으로 내려받는다. 자동으로 시작되지 않는다면 Data 탭으로 다시 가서 Download All을 한 번 더 클릭한다.
+5.	다 받으면 ZIP 파일 압축을 풀고 train.csv 파일을 프로젝트 폴더로 옮겨 놓는다.
+6.	train.csv 파일 이름을 NYC_taxi.csv로 변경한다.
